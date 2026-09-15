@@ -33,3 +33,5 @@ print(toJson["current"]["temperature_2m"])
 print(toJson["current"]["relative_humidity_2m"])
 print(toJson["current"]["wind_speed_10m"])
 print(toJson["current"]["wind_direction_10m"])
+
+#hackmd.io/@lukac/api1
